@@ -23,7 +23,7 @@
 		"bcrypt": "^3.0.6",
 		"body-parser": "^1.19.0",
 		"exec-sql": "^2.0.2",
-		"express": "^4.17.1",
+		"express": "^4.17.3",
 		"gulp": "^4.0.2",
 		"gulp-concat": "^2.6.1",
 		"gulp-ng-annotate": "^2.1.0",
